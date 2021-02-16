@@ -34,17 +34,13 @@ You can also create a wonderfully custom name that represents you or your work. 
 
 ## Logo and Wordmark
 
-We’re a little more strict on this one. We own the trademark in the US for both the Uplo logo and wordmark:
+We’re a little more strict on this one. We are in the process of registering the trademarks in Australia for both the Uplo logo and wordmark:
 
 ![Uplo logo](./uplo-logo/logo-colour-3000px-trans-png-01.png)
 
 We’d prefer that your project not use the Uplo logo or wordmark directly in any capacity, but you can style on it as long as a normal user wouldn’t confuse it for the real thing.
 
 We hope to have a good example of this soon:
-
-
-
-The logo is similar, but is easily differentiated from the Uplo logo by both the color and the design using a line graph in the center. Plus, it perfectly represents what the site is about - Uplo and stats!
 
 ## Colours
 
