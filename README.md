@@ -46,9 +46,9 @@ A good example of this is UploStats:
 
 The logo is similar, but is easily differentiated from the Uplo logo by both the color and the design using a line graph in the center. Plus, it perfectly represents what the site is about - Uplo and stats!
 
-## Color
+## Colours
 
-Uplo uses a number of colors.
+Uplo uses two main colours.
 
 ![Uplo Colour Guideline](./colour-guideline/colour-guideline-png-01.png)
 
