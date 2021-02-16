@@ -12,7 +12,7 @@ In an effort to promote these goals, please use the following as guidelines when
 
 ## Official Uplo assets
 
-[Get them here](https://github.com/uplo-tech/brand-assets). It includes our logo and wordmark in a variety of high-quality formats, as well as the built with Uplo logo for third-party projects.
+[Get them here](https://github.com/uplo-tech/brand-assets-official). It includes our logo and wordmark in a variety of high-quality formats, as well as the built with Uplo logo for third-party projects.
 
 
 ![Built with Uplo logo](./built-with-uplo/built-logo-colour-3000px-trans-png-01.png)
@@ -40,9 +40,9 @@ We’re a little more strict on this one. We own the trademark in the US for bot
 
 We’d prefer that your project not use the Uplo logo or wordmark directly in any capacity, but you can style on it as long as a normal user wouldn’t confuse it for the real thing.
 
-A good example of this is UploStats:
+We hope to have a good example of this soon:
 
-![](../.gitbook/assets/brand-3.png)
+
 
 The logo is similar, but is easily differentiated from the Uplo logo by both the color and the design using a line graph in the center. Plus, it perfectly represents what the site is about - Uplo and stats!
 
