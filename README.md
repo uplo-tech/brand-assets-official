@@ -28,7 +28,7 @@ You have a lot of freedom here. Feel free to use the word “Uplo” however you
 
 Current examples of good naming in the community are: UploStats, Uplosync, UploWiki, and Uplomining. You know it's about Uplo, and get a good idea of what specifically the project might focus on.
 
-Just remember, if you’re trying to make a play on words, we pronounce Uplo like “sigh-uh” and not “see-ya”.
+Just remember, if you’re trying to make a play on words, we pronounce Uplo like “up-low” and not “U-P-L-O”.
 
 You can also create a wonderfully custom name that represents you or your work. Some examples are projects like Pixeldrain, Filebase, and roadie.
 
