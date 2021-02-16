@@ -14,7 +14,8 @@ In an effort to promote these goals, please use the following as guidelines when
 
 [Get them here](https://github.com/uplo-tech/brand-assets). It includes our logo and wordmark in a variety of high-quality formats, as well as the built with Uplo logo for third-party projects.
 
-![](../built-with-uplo/built-logo-colour-3000px-trans-png-01.png)
+
+![Built with Uplo logo](./built-with-uplo/built-logo-colour-3000px-trans-png-01.png)
 
 If you are building a project featuring Uplo, use the `built with Uplo` logo to showcase your integration. You can drop this in the app, website, or anywhere else that makes sense.
 
@@ -35,7 +36,7 @@ You can also create a wonderfully custom name that represents you or your work. 
 
 We’re a little more strict on this one. We own the trademark in the US for both the Uplo logo and wordmark:
 
-![](../uplo-logo/logo-colour-3000px-trans-png-01.png)
+![Uplo logo](./uplo-logo/logo-colour-3000px-trans-png-01.png)
 
 We’d prefer that your project not use the Uplo logo or wordmark directly in any capacity, but you can style on it as long as a normal user wouldn’t confuse it for the real thing.
 
@@ -49,7 +50,8 @@ The logo is similar, but is easily differentiated from the Uplo logo by both the
 
 Uplo uses a number of colors.
 
-![](../colour-guideline/colour-guideline-png-01.png)
+![Uplo Colour Guideline](./colour-guideline/colour-guideline-png-01.png)
+
 
 If you use the exact Uplo logo or wordmark in any way, like to represent the fact that you integrate with Uplo on your site, the image should either use our green or one of these grays. In other words, don't use our exact logo or wordmark and change the color to match your color scheme.
 
